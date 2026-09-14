@@ -1,0 +1,10 @@
+# Executables
+gbn_receiver
+gbn_sender
+sr_receiver
+sr_sender
+stop_wait_receiver
+stop_wait_sender
+
+# Output files
+received.txt
